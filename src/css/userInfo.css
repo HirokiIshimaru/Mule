@@ -1,0 +1,86 @@
+.user_header{
+    position: relative;
+    z-index: 1;
+}
+.cross{
+    position: absolute;
+    z-index: 10;
+    top: 20px;
+    left: 20px;
+}
+.user_main{
+    width: 100%;
+    position: absolute;
+    top: 350px;
+    z-index: 100;
+    background-color: #fff;
+    border-radius: 30px 30px 0 0;
+    padding: 30px 0 150px 0;
+}
+.music_spe{
+    font-size: 17px;
+    margin-bottom: 15px;
+    padding-left: 30px;
+}
+.name{
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+}
+.experience_list{
+    width: 50%;
+    display: flex;
+    list-style: none;
+    margin: 10px 0;
+    padding-left: 30px;
+}
+li{
+    font-size: 15px;
+}
+.list_content{
+    margin-left: 20px;
+    color: #707070;
+}
+h3{
+    font-size: 17px;
+    margin: 25px 0;
+    padding-left: 30px;
+}
+.self-text{
+    font-size: 15px;
+    font-weight: 350;
+    padding-left: 30px;
+}
+.profile{
+    width: 100%;
+}
+.profile_list{
+    width: 100%;
+    display: flex;
+    border-bottom: solid 1px #70707010;
+    margin: 30px 0;
+    padding-bottom: 5px;
+}
+.profile_ttl{
+    width: 60%;
+    color: #707070;
+    font-size: 15px;
+    padding-left: 30px;
+}
+.profile_content{
+    font-size: 15px;
+}
+.follow{
+    position: fixed;
+    left: 40px;
+    bottom: 100px;
+    z-index: 100;
+}
+.follow button{    
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 100px;
+    background-color: #00BFFF;
+    color: #fff; 
+}

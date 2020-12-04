@@ -1,0 +1,62 @@
+.rec_wrap{
+    width: 100%;
+    height: 100%;
+}
+h2{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 40px 0 30px 20px;
+}
+.rec_box, .lesson_box, .studio_box{
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    display: flex;
+}
+.user{
+    text-align: center;
+    margin: 0 10px;
+}
+.user p{
+    font-size: 13px;
+    font-weight: 350;
+}
+.more{
+    width: 80px;
+    color: #00000060;
+    font-size: 13px;
+    text-align: center;
+    margin: 10px 0 0 280px;
+    padding-bottom: 2px;
+}
+.studio_wrap{
+    margin-bottom: 100px;
+}
+.studio{
+    margin: 0 15px;
+    padding: 20px;
+    color: #000;
+    box-shadow: 2px 2px 6px -2px rgba(000, 000, 000, 0.2);
+}
+.studio h3{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+.studio ul{
+    width: 100%;
+    display: flex;
+    list-style: none;
+}
+.studio ul li:first-child{
+    width: 100px;
+    margin-right: 20px;
+}
+.studio li p{
+    font-size: 13px;
+    font-weight: 300;
+}
+.studio li p:first-child{
+    color: #808080;
+    font-weight: 400;
+}
