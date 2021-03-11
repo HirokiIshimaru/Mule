@@ -5,7 +5,3 @@
         </header>
     </div>
 </template>
-
-<style>
-@import "../sass/common.scss"
-</style>

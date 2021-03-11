@@ -12,7 +12,7 @@
             <modal v-show="showModal" @close="closeModal" @search="searchCloseModal"/>
             <h2>検索条件から見つけた相手</h2>
             <div class="userList">
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human01.png" alt="">
                     </div>
@@ -27,7 +27,7 @@
                         </p>
                     </div>
                 </router-link>
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human02.png" alt="">
                     </div>
@@ -42,7 +42,7 @@
                         </p>
                     </div>
                 </router-link>
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human03.png" alt="">
                     </div>
@@ -57,7 +57,7 @@
                         </p>
                     </div>
                 </router-link>
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human01.png" alt="">
                     </div>
@@ -72,7 +72,7 @@
                         </p>
                     </div>
                 </router-link>
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human02.png" alt="">
                     </div>
@@ -87,7 +87,7 @@
                         </p>
                     </div>
                 </router-link>
-                <router-link to="/userInfo" class="userBox">
+                <router-link to="userInfo" class="userBox">
                     <div class="userIcon">
                         <img src="../assets/human03.png" alt="">
                     </div>

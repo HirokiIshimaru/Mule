@@ -7,37 +7,37 @@
             <div class="match_box">
                 <h2>マッチングした相手</h2>
                 <div class="match_list">
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human01.png" alt="">
                         <p>ギター</p>
                         <p>6年・経験有</p>
                         <p>大阪府大阪市</p>
                     </router-link>
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human02.png" alt="">
                         <p>ドラム</p>
                         <p>10年・経験有</p>
                         <p>大阪府和泉市</p>
                     </router-link>
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human03.png" alt="">
                         <p>ベース</p>
                         <p>4年・経験有</p>
                         <p>兵庫県西宮市</p>
                     </router-link>
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human01.png" alt="">
                         <p>ギター</p>
                         <p>6年・経験有</p>
                         <p>大阪府大阪市</p>
                     </router-link>
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human02.png" alt="">
                         <p>ドラム</p>
                         <p>10年・経験有</p>
                         <p>大阪府和泉市</p>
                     </router-link>
-                    <router-link to="" class="user" exact-active-class="">
+                    <router-link to="userInfo" class="user" exact-active-class="">
                         <img src="../assets/human03.png" alt="">
                         <p>ベース</p>
                         <p>4年・経験有</p>
